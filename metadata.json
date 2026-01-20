@@ -1,0 +1,7 @@
+{
+  "name": "Histórias Mágicas de Dormir",
+  "description": "Uma plataforma encantadora para criar histórias infantis personalizadas e seguras, transformando crianças em protagonistas de aventuras mágicas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
